@@ -21,6 +21,7 @@ public class LargestWithoutSort {
         }
 
         System.out.println(largestNumber);
+        System.out.println(largestNumber);
         return largestNumber;
 
     }
