@@ -19,7 +19,7 @@ public class LargestWithoutSort {
                     largestNumber = intArray[j];
             }
         }
-        System.out.println("Jatan");
+        System.out.println("Jinal and Jatan 1");
         System.out.println(largestNumber);
         System.out.println(largestNumber);
         return largestNumber;
