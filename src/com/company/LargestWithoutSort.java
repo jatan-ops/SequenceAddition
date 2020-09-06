@@ -19,7 +19,6 @@ public class LargestWithoutSort {
                     largestNumber = intArray[j];
             }
         }
-        System.out.println("gjsdygfjsgfjg");
         System.out.println(largestNumber);
         return largestNumber;
     }
