@@ -58,8 +58,7 @@ public class SequenceAddition {
         for (int i = 0; i < singleCharArray.length; i++) {
             sum = sum + Integer.parseInt(String.valueOf(singleCharArray[i]));
         }
-        //System.out.println(Integer.toString(sum));
-        //System.out.println(sum);
+        System.out.println(sum);
         return Integer.toString(sum);
     }
 }
